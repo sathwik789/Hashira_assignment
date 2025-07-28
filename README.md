@@ -75,7 +75,6 @@ We use **rational arithmetic (fractions)** to avoid floating point errors.
       "n": 10,
       "k": 7
     },
-    ...
   }
 }
 
